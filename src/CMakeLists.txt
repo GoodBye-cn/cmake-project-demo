@@ -9,3 +9,5 @@ include_directories(${HEADPATH})
 set(EXECUTABLE_OUTPUT_PATH ${EXECPATH})
 
 add_executable(${EXECNAME} main.cc)
+
+target_link_libraries(${EXECNAME} ${MODULE1} ${MODULE2})
