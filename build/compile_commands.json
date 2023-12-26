@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/gu/dev/cplusplus/demo/build",
+  "command": "/usr/bin/g++ -I/home/gu/dev/cplusplus/demo/include -g -o src/CMakeFiles/demo.dir/main.cc.o -c /home/gu/dev/cplusplus/demo/src/main.cc",
+  "file": "/home/gu/dev/cplusplus/demo/src/main.cc"
+},
+{
+  "directory": "/home/gu/dev/cplusplus/demo/build",
+  "command": "/usr/bin/g++ -I/home/gu/dev/cplusplus/demo/include -g -o src/module1/CMakeFiles/module1.dir/demo.cc.o -c /home/gu/dev/cplusplus/demo/src/module1/demo.cc",
+  "file": "/home/gu/dev/cplusplus/demo/src/module1/demo.cc"
+},
+{
+  "directory": "/home/gu/dev/cplusplus/demo/build",
+  "command": "/usr/bin/g++ -I/home/gu/dev/cplusplus/demo/include -g -o src/module2/CMakeFiles/module2.dir/demo.cc.o -c /home/gu/dev/cplusplus/demo/src/module2/demo.cc",
+  "file": "/home/gu/dev/cplusplus/demo/src/module2/demo.cc"
+},
+{
+  "directory": "/home/gu/dev/cplusplus/demo/build",
+  "command": "/usr/bin/g++ -g -o test/module1/CMakeFiles/test_module1.dir/test.cc.o -c /home/gu/dev/cplusplus/demo/test/module1/test.cc",
+  "file": "/home/gu/dev/cplusplus/demo/test/module1/test.cc"
+},
+{
+  "directory": "/home/gu/dev/cplusplus/demo/build",
+  "command": "/usr/bin/g++ -g -o test/module2/CMakeFiles/test_module2.dir/test.cc.o -c /home/gu/dev/cplusplus/demo/test/module2/test.cc",
+  "file": "/home/gu/dev/cplusplus/demo/test/module2/test.cc"
+}
+]
